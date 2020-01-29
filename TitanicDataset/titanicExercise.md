@@ -1,5 +1,4 @@
-### Interview Questions
-
+### Exercises
 - Get data from the first passenger in the list
     - name, fare, pclass, survived, age
 - How many total passengers? 
